@@ -1,5 +1,4 @@
 
-<!-- ABOUT THE PROJECT -->
 ## AutoGenerativeAIDownloader
 ST2 - G13. Part of PoC for "The Role of Artificial Intelligence in the development of Digital Forensics Training Images"
 This script will:
@@ -7,8 +6,6 @@ This script will:
 2. Downloads the newly generated images to the 'generated_images' folder.
 3. Writes the path and filename to the corresponding column 'GeneratedImages' in main.csv.
 
-Remember to add a valid API key. Guid for setting an environment variable [here] (https://help.openai.com/en/articles/5112595-best-practices-for-api-key-safety) W
+Remember to add a valid API key. Guid for setting an environment variable [here](https://help.openai.com/en/articles/5112595-best-practices-for-api-key-safety)
     
 ![PoC](AutoGenerativeAI.gif)
-
-  <p align="right">(<a href="#readme-top">back to top</a>)</p>
